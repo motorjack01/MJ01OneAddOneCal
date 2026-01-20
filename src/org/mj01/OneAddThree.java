@@ -11,6 +11,11 @@ public class OneAddThree {
 		System.out.println(new OneAddThree.MyMitakeWhateverObj().run());
 	}
 	
+	/**
+	 * balance
+	 * @see #getConnection(MitakeSmsEnum)
+	 * @see MitakeSmsEnum{@link org.mj01.side.MitakeSmsEnum}
+	 */
 	private static class MyMitakeWhateverObj extends MitakeWhateverSMSObj{
 		@Override
 		public int run() {
