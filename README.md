@@ -1,2 +1,5 @@
 # MJ01OneAddOneCal
-1+1=2
+DEMO java OOD
+
+## mitake sms
+1+5=6
