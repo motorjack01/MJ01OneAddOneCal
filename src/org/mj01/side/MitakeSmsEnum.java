@@ -35,7 +35,11 @@ public enum MitakeSmsEnum {
 	, /**
 	 * E機房連線8
 	 */
-	連線8("c8", "sdfokjxcvm3m", 8);
+	連線8("c8", "sdfokjxcvm3m", 8)
+	, /**
+	 * F機房連線9
+	 */
+	連線9("c9", "sdfokjxcvm3mttttjjjjjsdfslkdj", 9);
 
 	private String sign;
 	private String token;
